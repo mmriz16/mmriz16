@@ -9,8 +9,6 @@
                         enable them to become more productive. Currently designing UI and motion graph at
                         <a href="https://dianglobaltech.co.id/" class="p-link" target="_blank">DGT</a>.
                     </p>
-                    <a href="" class="a-big">Get to know me <i class="fas fa-chevron-right"
-                            style="font-size: 20px; margin-left: 10px;"></i></a>
                 </div>
             </div>
         </div>
